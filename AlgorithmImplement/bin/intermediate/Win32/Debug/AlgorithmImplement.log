@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\gitbase\algorithm-learning\algorithmimplement\algorithmimplement\src\main.cpp(54): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\gitbase\algorithm-learning\algorithmimplement\algorithmimplement\src\main.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+  sort.cpp
+d:\gitbase\algorithm-learning\algorithmimplement\algorithmimplement\src\sort.cpp(56): warning C4018: “>=”: 有符号/无符号不匹配
+d:\gitbase\algorithm-learning\algorithmimplement\algorithmimplement\src\sort.cpp(56): warning C4018: “>”: 有符号/无符号不匹配
+d:\gitbase\algorithm-learning\algorithmimplement\algorithmimplement\src\sort.cpp(103): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  AlgorithmImplement.vcxproj -> D:\gitbase\algorithm-learning\AlgorithmImplement\bin\Win32\Debug\AlgorithmImplement.exe
